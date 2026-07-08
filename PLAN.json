@@ -21,214 +21,190 @@
   "week_1_plan": {
     "MONDAY_UPPER_A": {
       "incline_dumbbell_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 16, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 16, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 16, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 16,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
-        "notes": "Weight is per dumbbell. Adjust to leave 2 reps in reserve (RPE 8)."
+        "notes": "Weight is per dumbbell. Adjust to leave 2 reps in reserve."
       },
       "lat_pulldown_wide_grip": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 40,
+        "rpe_target": 8,
         "equipment": ["Lat Pulldown / Row Combo Machine"],
         "notes": "Drive elbows straight down to your side pockets."
       },
       "pectoral_fly_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 35,
+        "rpe_target": 9,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
         "notes": "Keep a very slight bend in the elbows; squeeze hard at the peak contraction."
       },
       "iso_lateral_dy_row": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 20,
+        "rpe_target": 8,
         "equipment": ["Iso-Lateral DY Row Plate Loading"],
         "notes": "Weight listed is the added plate load per side."
       },
       "lateral_raise_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9},
-          {"set_number": 4, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9}
-        ],
+        "sets": 4,
+        "reps": 15,
+        "suggested_weight_kg": 15,
+        "rpe_target": 9,
         "equipment": ["Lateral Raise Machine"],
         "notes": "Control the lowering (negative) phase strictly."
       },
       "cable_bicep_curl_tricep_pushdown_superset": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 20, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 20, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 20, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 20,
+        "rpe_target": 9,
         "equipment": ["Cable Machine"],
         "notes": "Perform bicep curls immediately followed by tricep pushdowns with minimal rest."
       }
     },
     "TUESDAY_LOWER_A": {
       "linear_leg_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 80, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 80, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 80, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 80,
+        "rpe_target": 8,
         "equipment": ["Linear Leg Press"],
         "notes": "Excludes sled base weight. Achieve a deep depth without rounding your lower back."
       },
       "pure_deadlift_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 8, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 8, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 8, "suggested_weight_kg": 40, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 8,
+        "suggested_weight_kg": 40,
+        "rpe_target": 8,
         "equipment": ["Pure Deadlift Machine"],
         "notes": "Total plate load added. Forcefully drive up through your heels."
       },
       "leg_extension": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 30, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 30, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 30, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 15,
+        "suggested_weight_kg": 30,
+        "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
         "notes": "Pause briefly at peak extension."
       },
       "seated_leg_curl": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 35,
+        "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
         "notes": "Control the return phase to maintain tension on your hamstrings."
       },
       "crunch_bench": {
-        "sets": [
-          {"set_number": 1, "target_rep": 20, "suggested_weight_kg": 0, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 20, "suggested_weight_kg": 0, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 20, "suggested_weight_kg": 0, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 20,
+        "suggested_weight_kg": 0,
+        "rpe_target": 9,
         "equipment": ["Crunch Bench"],
         "notes": "0 weight denotes bodyweight resistance. Focus on crunch compression."
       }
     },
     "WEDNESDAY_RUNNING_ZONE_2": {
       "steady_state_jog": {
-        "sets": [
-          {"set_number": 1, "target_rep": 1, "suggested_weight_kg": 0, "status": null, "duration_minutes": 45}
-        ],
+        "duration_minutes": 45,
+        "suggested_weight_kg": 0,
         "equipment": ["Skillrun Treadmill"],
         "notes": "Maintain a steady conversational pace to support aerobic efficiency without hindering lifting recovery."
       }
     },
     "THURSDAY_UPPER_B": {
       "flat_dumbbell_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 18, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 18, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 18, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 18,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
         "notes": "Weight is per dumbbell."
       },
       "seated_cable_row_low_row": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 35,
+        "rpe_target": 8,
         "equipment": ["Lat Pulldown / Row Combo Machine"],
         "notes": "Pull into your lower waist area and actively squeeze your scapula."
       },
       "smith_machine_overhead_shoulder_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 20,
+        "rpe_target": 8,
         "equipment": ["Smith Machine", "Adjustable Bench"],
         "notes": "Added plate weight total, excluding the vertical track bar mechanism."
       },
       "rear_deltoid_fly": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 25, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 25, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 25, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 15,
+        "suggested_weight_kg": 25,
+        "rpe_target": 9,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
         "notes": "Reverse chest position directly facing the machine pad."
       },
       "dumbbell_bicep_curl": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 10, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 10, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 10, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 10,
+        "rpe_target": 9,
         "equipment": ["Dumbbells 1kg-50kg", "Arm Curl Bench"],
         "notes": "Weight is per dumbbell. Strictly keep elbows tucked against the pad."
       }
     },
     "FRIDAY_LOWER_B": {
       "plate_loaded_v_squat_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 40, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 40,
+        "rpe_target": 8,
         "equipment": ["V-Squat Machine Plate Loading"],
         "notes": "Total plate load loaded on the machine pins."
       },
       "dumbbell_romanian_deadlifts": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 20, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 20,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg"],
         "notes": "Weight is per dumbbell. Push hips backward until you get a deep hamstring stretch."
       },
       "leg_extension_seated_leg_curl_superset": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 30, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 30, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 30, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 30,
+        "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
         "notes": "Move immediately from extension to curl mechanics to drive local volume."
       },
       "back_extension_bench": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 0, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 0, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 0, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 15,
+        "suggested_weight_kg": 0,
+        "rpe_target": 8,
         "equipment": ["Back Extension Bench"],
         "notes": "Squeeze your glutes and lower hamstrings firmly at the top layout."
       }
     },
     "SATURDAY_METABOLIC_CONDITIONING": {
       "stair_climber": {
-        "sets": [
-          {"set_number": 1, "target_rep": 1, "suggested_weight_kg": 0, "status": null, "duration_minutes": 15}
-        ],
+        "duration_minutes": 15,
+        "suggested_weight_kg": 0,
         "equipment": ["Escalator Stair Climber Machine"],
         "notes": "Maintain a steady pacing speed to drive localized quad/glute endurance."
       },
       "skillrun_intervals": {
-        "sets": [
-          {"set_number": 1, "target_rep": 1, "suggested_weight_kg": 0, "status": null, "duration_minutes": 15}
-        ],
+        "duration_minutes": 15,
+        "suggested_weight_kg": 0,
         "equipment": ["Skillrun Treadmill"],
         "notes": "Alternate precisely between 1 minute of fast running and 1 minute of recovery walking."
       }
@@ -241,214 +217,190 @@
   "week_2_plan": {
     "MONDAY_UPPER_A": {
       "incline_dumbbell_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 18, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 18, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 18, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 18,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
         "notes": "Progressive overload applied (+2kg per dumbbell). Maintain strict form control."
       },
       "lat_pulldown_wide_grip": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 45, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 45, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 45, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 45,
+        "rpe_target": 8,
         "equipment": ["Lat Pulldown / Row Combo Machine"],
         "notes": "Load increased by one pin increment. Focus on complete lat extension at the top."
       },
       "pectoral_fly_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 40,
+        "rpe_target": 9,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
         "notes": "Incremental step up in weight selection."
       },
       "iso_lateral_dy_row": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 22.5,
+        "rpe_target": 8,
         "equipment": ["Iso-Lateral DY Row Plate Loading"],
         "notes": "Add a small fractional plate (2.5kg total plates per side)."
       },
       "lateral_raise_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9},
-          {"set_number": 4, "target_rep": 15, "suggested_weight_kg": 15, "status": null, "rpe_target": 9}
-        ],
+        "sets": 4,
+        "reps": 15,
+        "suggested_weight_kg": 15,
+        "rpe_target": 9,
         "equipment": ["Lateral Raise Machine"],
         "notes": "Weight kept baseline to ensure high-velocity, controlled adaptations on lateral heads."
       },
       "cable_bicep_curl_tricep_pushdown_superset": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 22.5,
+        "rpe_target": 9,
         "equipment": ["Cable Machine"],
         "notes": "Slight upward shift in cable stack calculation."
       }
     },
     "TUESDAY_LOWER_A": {
       "linear_leg_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 90, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 90, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 90, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 90,
+        "rpe_target": 8,
         "equipment": ["Linear Leg Press"],
         "notes": "Added +10kg total plate load. Keep core clamped hard against back cushion."
       },
       "pure_deadlift_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 8, "suggested_weight_kg": 45, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 8, "suggest_weight_kg": 45, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 8, "suggested_weight_kg": 45, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 8,
+        "suggested_weight_kg": 45,
+        "rpe_target": 8,
         "equipment": ["Pure Deadlift Machine"],
         "notes": "Upward weight scaling. Explode out from the bottom tier pins."
       },
       "leg_extension": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 35, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 15,
+        "suggested_weight_kg": 35,
+        "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
         "notes": "Slightly heavier stack focus. Enforce strict tempo."
       },
       "seated_leg_curl": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 40,
+        "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
         "notes": "Weight scaled. Do not permit hips to lift off the machine seat."
       },
       "crunch_bench": {
-        "sets": [
-          {"set_number": 1, "target_rep": 22, "suggested_weight_kg": 0, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 22, "suggested_weight_kg": 0, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 22, "suggested_weight_kg": 0, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 22,
+        "suggested_weight_kg": 0,
+        "rpe_target": 9,
         "equipment": ["Crunch Bench"],
         "notes": "Overload handled via volume target matching (+2 reps per set)."
       }
     },
     "WEDNESDAY_RUNNING_ZONE_2": {
       "steady_state_jog": {
-        "sets": [
-          {"set_number": 1, "target_rep": 1, "suggested_weight_kg": 0, "status": null, "duration_minutes": 45}
-        ],
+        "duration_minutes": 45,
+        "suggested_weight_kg": 0,
         "equipment": ["Skillrun Treadmill"],
         "notes": "Focus on keeping steady output. Monitor recovery trends using heart rate thresholds."
       }
     },
     "THURSDAY_UPPER_B": {
       "flat_dumbbell_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 20, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 20,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
         "notes": "Step up weight (+2kg per dumbbell)."
       },
       "seated_cable_row_low_row": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 40, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 40,
+        "rpe_target": 8,
         "equipment": ["Lat Pulldown / Row Combo Machine"],
         "notes": "Weight scaled up. Maintain upright spine, zero torso swinging."
       },
       "smith_machine_overhead_shoulder_press": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 22.5, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 22.5,
+        "rpe_target": 8,
         "equipment": ["Smith Machine", "Adjustable Bench"],
         "notes": "Added plate weight total increased (+2.5kg)."
       },
       "rear_deltoid_fly": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 30, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 30, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 30, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 15,
+        "suggested_weight_kg": 30,
+        "rpe_target": 9,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
         "notes": "Weight scaled. Focus on targeting the rear shoulder pocket."
       },
       "dumbbell_bicep_curl": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 11, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 11, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 11, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 11,
+        "rpe_target": 9,
         "equipment": ["Dumbbells 1kg-50kg", "Arm Curl Bench"],
         "notes": "Weight per dumbbell stepped up smoothly."
       }
     },
     "FRIDAY_LOWER_B": {
       "plate_loaded_v_squat_machine": {
-        "sets": [
-          {"set_number": 1, "target_rep": 10, "suggested_weight_kg": 45, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 10, "suggested_weight_kg": 45, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 10, "suggested_weight_kg": 45, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 10,
+        "suggested_weight_kg": 45,
+        "rpe_target": 8,
         "equipment": ["V-Squat Machine Plate Loading"],
         "notes": "Total plate load increased (+5kg total)."
       },
       "dumbbell_romanian_deadlifts": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 22, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 22, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 22, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 22,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg"],
         "notes": "Weight is per dumbbell. Prioritize eccentric stretch tension."
       },
       "leg_extension_seated_leg_curl_superset": {
-        "sets": [
-          {"set_number": 1, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 2, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9},
-          {"set_number": 3, "target_rep": 12, "suggested_weight_kg": 35, "status": null, "rpe_target": 9}
-        ],
+        "sets": 3,
+        "reps": 12,
+        "suggested_weight_kg": 35,
+        "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
         "notes": "Load advanced across both movements to maximize local output."
       },
       "back_extension_bench": {
-        "sets": [
-          {"set_number": 1, "target_rep": 15, "suggested_weight_kg": 0, "status": null, "rpe_target": 8},
-          {"set_number": 2, "target_rep": 15, "suggested_weight_kg": 0, "status": null, "rpe_target": 8},
-          {"set_number": 3, "target_rep": 15, "suggested_weight_kg": 0, "status": null, "rpe_target": 8}
-        ],
+        "sets": 3,
+        "reps": 15,
+        "suggested_weight_kg": 0,
+        "rpe_target": 8,
         "equipment": ["Back Extension Bench"],
         "notes": "Maintain perfect execution. Focus closely on squeezing at the peak contraction."
       }
     },
     "SATURDAY_METABOLIC_CONDITIONING": {
       "stair_climber": {
-        "sets": [
-          {"set_number": 1, "target_rep": 1, "suggested_weight_kg": 0, "status": null, "duration_minutes": 15}
-        ],
+        "duration_minutes": 15,
+        "suggested_weight_kg": 0,
         "equipment": ["Escalator Stair Climber Machine"],
         "notes": "Slight speed increase on the escalator console compared to Week 1."
       },
       "skillrun_intervals": {
-        "sets": [
-          {"set_number": 1, "target_rep": 1, "suggested_weight_kg": 0, "status": null, "duration_minutes": 15}
-        ],
+        "duration_minutes": 15,
+        "suggested_weight_kg": 0,
         "equipment": ["Skillrun Treadmill"],
         "notes": "Push interval sprint segments slightly faster to challenge your high-end conditioning."
       }
