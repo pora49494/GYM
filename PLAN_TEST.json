@@ -1,0 +1,1479 @@
+{
+  "equipments": [
+    "Dumbbells 1kg-50kg",
+    "Lat Pulldown / Row Combo Machine",
+    "Pectoral Fly / Rear Deltoid Machine",
+    "Iso-Lateral DY Row Plate Loading",
+    "Lateral Raise Machine",
+    "Cable Machine",
+    "Linear Leg Press",
+    "Pure Deadlift Machine",
+    "Leg Curl / Extension Combo Machine",
+    "Crunch Bench",
+    "Skillrun Treadmill",
+    "Adjustable Bench",
+    "Smith Machine",
+    "V-Squat Machine Plate Loading",
+    "Arm Curl Bench",
+    "Back Extension Bench",
+    "Escalator Stair Climber Machine"
+  ],
+  "week_1_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_0_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_2_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_3_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_4_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_5_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_6_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+  "week_7_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  },
+    "week_8_plan": {
+    "MONDAY": [],
+    "TUESDAY": [],
+    "WEDNESDAY": [],
+    "THURSDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Light steady-state walking or easy jogging to elevate core body temperature."
+      },
+      {
+        "exercise_name": "linear_leg_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 5,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Extremely light load. Use this to check sled depth, carriage track smoothness, and lock foot placement settings."
+      },
+      {
+        "exercise_name": "incline_dumbbell_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
+        "notes": "Weight per dumbbell. Test your structural mechanics on the bench angle configuration."
+      },
+      {
+        "exercise_name": "lat_pulldown_wide_grip_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Light load to find your optimal thigh-pad height setting and prime scapular movement patterns."
+      }
+    ],
+    "FRIDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "Casual walking window to prepare the joints."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Practice setting your foot position and hinge axis on this specialized machine."
+      },
+      {
+        "exercise_name": "iso_lateral_dy_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 6,
+        "equipment": ["Iso-Lateral DY Row Plate Loading"],
+        "notes": "Plate weight per side. Adjust seat height so handles align with chest level; focus on an isolated tracking arc."
+      },
+      {
+        "exercise_name": "pectoral_fly_machine_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
+        "notes": "Log your arm-length numbers and seat setup for standard flying variations."
+      },
+      {
+        "exercise_name": "lateral_raise_machine_acclimation",
+        "sets": 2,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Lateral Raise Machine"],
+        "notes": "Light conditioning load to test chest cushion positioning and side pad contact points."
+      }
+    ],
+    "SATURDAY": [
+      {
+        "exercise_name": "skillrun_treadmill_warmup",
+        "sets": 1,
+        "reps": 1,
+        "duration_minutes": 10,
+        "suggested_weight_kg": 0,
+        "rpe_target": 5,
+        "equipment": ["Skillrun Treadmill"],
+        "notes": "A simple baseline warm-up phase."
+      },
+      {
+        "exercise_name": "plate_loaded_v_squat_machine_acclimation",
+        "sets": 2,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 5,
+        "equipment": ["V-Squat Machine Plate Loading"],
+        "notes": "Total added plate weight. Get used to the specialized structural carriage alignment and foot plate incline."
+      },
+      {
+        "exercise_name": "seated_cable_row_low_row_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 25,
+        "rpe_target": 6,
+        "equipment": ["Lat Pulldown / Row Combo Machine"],
+        "notes": "Verifying the horizontal glide mechanics and cable smoothness."
+      },
+      {
+        "exercise_name": "smith_machine_overhead_shoulder_press_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 10,
+        "rpe_target": 5,
+        "equipment": ["Smith Machine", "Adjustable Bench"],
+        "notes": "Added plate weight total. Check tracking alignment of the guided track relative to the bench angle."
+      },
+      {
+        "exercise_name": "leg_extension_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 20,
+        "rpe_target": 6,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Configure pad setting details for front thigh tracking."
+      },
+      {
+        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset_acclimation",
+        "sets": 2,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 15,
+        "rpe_target": 6,
+        "equipment": ["Cable Machine"],
+        "notes": "Light arm flusher set to test attachment options and pulley heights on the selectorized stack."
+      }
+    ],
+    "SUNDAY": []
+  }
+}
