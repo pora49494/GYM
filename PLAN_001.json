@@ -45,10 +45,10 @@
         "sets": 3,
         "reps": 12,
         "duration_minutes": 0,
-        "suggested_weight_kg": 35,
+        "suggested_weight_kg": 33,
         "rpe_target": 9,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Keep a very slight bend in the elbows; squeeze hard at the peak contraction."
+        "notes": "Weight set to 33kg based on machine increments."
       },
       {
         "exercise_name": "iso_lateral_dy_row",
@@ -71,14 +71,24 @@
         "notes": "Control the lowering (negative) phase strictly."
       },
       {
-        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset",
+        "exercise_name": "cable_bicep_curl",
         "sets": 3,
         "reps": 12,
         "duration_minutes": 0,
-        "suggested_weight_kg": 20,
-        "rpe_target": 9,
+        "suggested_weight_kg": 8.75,
+        "rpe_target": 8,
         "equipment": ["Cable Machine"],
-        "notes": "Perform bicep curls immediately followed by tricep pushdowns with minimal rest."
+        "notes": "Separated exercise. Rest 60-90 seconds between sets."
+      },
+      {
+        "exercise_name": "cable_tricep_pushdown",
+        "sets": 3,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 12.5,
+        "rpe_target": 8,
+        "equipment": ["Cable Machine"],
+        "notes": "Standalone tricep exercise."
       }
     ],
     "TUESDAY": [
@@ -107,10 +117,10 @@
         "sets": 3,
         "reps": 15,
         "duration_minutes": 0,
-        "suggested_weight_kg": 30,
+        "suggested_weight_kg": 22.5,
         "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Pause briefly at peak extension."
+        "notes": "Adjusted to 22.5kg based on feedback. Pause at top extension."
       },
       {
         "exercise_name": "seated_leg_curl",
@@ -120,7 +130,7 @@
         "suggested_weight_kg": 35,
         "rpe_target": 9,
         "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Control the return phase to maintain tension on your hamstrings."
+        "notes": "Control the return phase to maintain hamstring tension."
       },
       {
         "exercise_name": "crunch_bench",
@@ -130,21 +140,10 @@
         "suggested_weight_kg": 0,
         "rpe_target": 9,
         "equipment": ["Crunch Bench"],
-        "notes": "0 weight denotes bodyweight resistance. Focus on crunch compression."
+        "notes": "Focus on controlled crunch compression."
       }
     ],
-    "WEDNESDAY": [
-      {
-        "exercise_name": "steady_state_jog",
-        "sets": 1,
-        "reps": 1,
-        "duration_minutes": 45,
-        "suggested_weight_kg": 0,
-        "rpe_target": 6,
-        "equipment": ["Skillrun Treadmill"],
-        "notes": "Maintain a steady conversational pace to support aerobic efficiency without hindering lifting recovery."
-      }
-    ],
+    "WEDNESDAY": [],
     "THURSDAY": [
       {
         "exercise_name": "flat_dumbbell_press",
@@ -174,338 +173,10 @@
         "suggested_weight_kg": 20,
         "rpe_target": 8,
         "equipment": ["Smith Machine", "Adjustable Bench"],
-        "notes": "Added plate weight total, excluding the vertical track bar mechanism."
+        "notes": "Added plate weight total, excluding bar track mechanism."
       },
       {
         "exercise_name": "rear_deltoid_fly",
         "sets": 3,
         "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 25,
-        "rpe_target": 9,
-        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Reverse chest position directly facing the machine pad."
-      },
-      {
-        "exercise_name": "dumbbell_bicep_curl",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 10,
-        "rpe_target": 9,
-        "equipment": ["Dumbbells 1kg-50kg", "Arm Curl Bench"],
-        "notes": "Weight is per dumbbell. Strictly keep elbows tucked against the pad."
-      }
-    ],
-    "FRIDAY": [
-      {
-        "exercise_name": "plate_loaded_v_squat_machine",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 8,
-        "equipment": ["V-Squat Machine Plate Loading"],
-        "notes": "Total plate load loaded on the machine pins."
-      },
-      {
-        "exercise_name": "dumbbell_romanian_deadlifts",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 20,
-        "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg"],
-        "notes": "Weight is per dumbbell. Push hips backward until you get a deep hamstring stretch."
-      },
-      {
-        "exercise_name": "leg_extension_seated_leg_curl_superset",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 30,
-        "rpe_target": 9,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Move immediately from extension to curl mechanics to drive local volume."
-      },
-      {
-        "exercise_name": "back_extension_bench",
-        "sets": 3,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 0,
-        "rpe_target": 8,
-        "equipment": ["Back Extension Bench"],
-        "notes": "Squeeze your glutes and lower hamstrings firmly at the top layout."
-      }
-    ],
-    "SATURDAY": [
-      {
-        "exercise_name": "stair_climber",
-        "sets": 1,
-        "reps": 1,
-        "duration_minutes": 15,
-        "suggested_weight_kg": 0,
-        "rpe_target": 7,
-        "equipment": ["Escalator Stair Climber Machine"],
-        "notes": "Maintain a steady pacing speed to drive localized quad/glute endurance."
-      },
-      {
-        "exercise_name": "skillrun_intervals",
-        "sets": 1,
-        "reps": 1,
-        "duration_minutes": 15,
-        "suggested_weight_kg": 0,
-        "rpe_target": 8,
-        "equipment": ["Skillrun Treadmill"],
-        "notes": "Alternate precisely between 1 minute of fast running and 1 minute of recovery walking."
-      }
-    ],
-    "SUNDAY": []
-  },
-  "week_2_plan": {
-    "MONDAY": [
-      {
-        "exercise_name": "incline_dumbbell_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 18,
-        "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
-        "notes": "Progressive overload applied (+2kg per dumbbell). Maintain strict form control."
-      },
-      {
-        "exercise_name": "lat_pulldown_wide_grip",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 45,
-        "rpe_target": 8,
-        "equipment": ["Lat Pulldown / Row Combo Machine"],
-        "notes": "Load increased by one pin increment. Focus on complete lat extension at the top."
-      },
-      {
-        "exercise_name": "pectoral_fly_machine",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 9,
-        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Incremental step up in weight selection."
-      },
-      {
-        "exercise_name": "iso_lateral_dy_row",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 22.5,
-        "rpe_target": 8,
-        "equipment": ["Iso-Lateral DY Row Plate Loading"],
-        "notes": "Add a small fractional plate (2.5kg total plates per side)."
-      },
-      {
-        "exercise_name": "lateral_raise_machine",
-        "sets": 4,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 15,
-        "rpe_target": 9,
-        "equipment": ["Lateral Raise Machine"],
-        "notes": "Weight kept baseline to ensure high-velocity, controlled adaptations on lateral heads."
-      },
-      {
-        "exercise_name": "cable_bicep_curl_tricep_pushdown_superset",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 22.5,
-        "rpe_target": 9,
-        "equipment": ["Cable Machine"],
-        "notes": "Slight upward shift in cable stack calculation."
-      }
-    ],
-    "TUESDAY": [
-      {
-        "exercise_name": "linear_leg_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 90,
-        "rpe_target": 8,
-        "equipment": ["Linear Leg Press"],
-        "notes": "Added +10kg total plate load. Keep core clamped hard against back cushion."
-      },
-      {
-        "exercise_name": "pure_deadlift_machine",
-        "sets": 3,
-        "reps": 8,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 45,
-        "rpe_target": 8,
-        "equipment": ["Pure Deadlift Machine"],
-        "notes": "Upward weight scaling. Explode out from the bottom tier pins."
-      },
-      {
-        "exercise_name": "leg_extension",
-        "sets": 3,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 35,
-        "rpe_target": 9,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Slightly heavier stack focus. Enforce strict tempo."
-      },
-      {
-        "exercise_name": "seated_leg_curl",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 9,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Weight scaled. Do not permit hips to lift off the machine seat."
-      },
-      {
-        "exercise_name": "crunch_bench",
-        "sets": 3,
-        "reps": 22,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 0,
-        "rpe_target": 9,
-        "equipment": ["Crunch Bench"],
-        "notes": "Overload handled via volume target matching (+2 reps per set)."
-      }
-    ],
-    "WEDNESDAY": [
-      {
-        "exercise_name": "steady_state_jog",
-        "sets": 1,
-        "reps": 1,
-        "duration_minutes": 45,
-        "suggested_weight_kg": 0,
-        "rpe_target": 6,
-        "equipment": ["Skillrun Treadmill"],
-        "notes": "Focus on keeping steady output. Monitor recovery trends using heart rate thresholds."
-      }
-    ],
-    "THURSDAY": [
-      {
-        "exercise_name": "flat_dumbbell_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 20,
-        "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
-        "notes": "Step up weight (+2kg per dumbbell)."
-      },
-      {
-        "exercise_name": "seated_cable_row_low_row",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 8,
-        "equipment": ["Lat Pulldown / Row Combo Machine"],
-        "notes": "Weight scaled up. Maintain upright spine, zero torso swinging."
-      },
-      {
-        "exercise_name": "smith_machine_overhead_shoulder_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 22.5,
-        "rpe_target": 8,
-        "equipment": ["Smith Machine", "Adjustable Bench"],
-        "notes": "Added plate weight total increased (+2.5kg)."
-      },
-      {
-        "exercise_name": "rear_deltoid_fly",
-        "sets": 3,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 30,
-        "rpe_target": 9,
-        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Weight scaled. Focus on targeting the rear shoulder pocket."
-      },
-      {
-        "exercise_name": "dumbbell_bicep_curl",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 11,
-        "rpe_target": 9,
-        "equipment": ["Dumbbells 1kg-50kg", "Arm Curl Bench"],
-        "notes": "Weight per dumbbell stepped up smoothly."
-      }
-    ],
-    "FRIDAY": [
-      {
-        "exercise_name": "plate_loaded_v_squat_machine",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 45,
-        "rpe_target": 8,
-        "equipment": ["V-Squat Machine Plate Loading"],
-        "notes": "Total plate load increased (+5kg total)."
-      },
-      {
-        "exercise_name": "dumbbell_romanian_deadlifts",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 22,
-        "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg"],
-        "notes": "Weight is per dumbbell. Prioritize eccentric stretch tension."
-      },
-      {
-        "exercise_name": "leg_extension_seated_leg_curl_superset",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 35,
-        "rpe_target": 9,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Load advanced across both movements to maximize local output."
-      },
-      {
-        "exercise_name": "back_extension_bench",
-        "sets": 3,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 0,
-        "rpe_target": 8,
-        "equipment": ["Back Extension Bench"],
-        "notes": "Maintain perfect execution. Focus closely on squeezing at the peak contraction."
-      }
-    ],
-    "SATURDAY": [
-      {
-        "exercise_name": "stair_climber",
-        "sets": 1,
-        "reps": 1,
-        "duration_minutes": 15,
-        "suggested_weight_kg": 0,
-        "rpe_target": 7,
-        "equipment": ["Escalator Stair Climber Machine"],
-        "notes": "Slight speed increase on the escalator console compared to Week 1."
-      },
-      {
-        "exercise_name": "skillrun_intervals",
-        "sets": 1,
-        "reps": 1,
-        "duration_minutes": 15,
-        "suggested_weight_kg": 0,
-        "rpe_target": 8,
-        "equipment": ["Skillrun Treadmill"],
-        "notes": "Push interval sprint segments slightly faster to challenge your high-end conditioning."
-      }
-    ],
-    "SUNDAY": []
-  }
-}
+        "duration_minutes
