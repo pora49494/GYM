@@ -79,16 +79,6 @@
         "rpe_target": 8,
         "equipment": ["Cable Machine"],
         "notes": "Separated exercise. Rest 60-90 seconds between sets."
-      },
-      {
-        "exercise_name": "cable_tricep_pushdown",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 12.5,
-        "rpe_target": 8,
-        "equipment": ["Cable Machine"],
-        "notes": "Standalone tricep exercise."
       }
     ],
     "TUESDAY": [
@@ -141,6 +131,16 @@
         "rpe_target": 9,
         "equipment": ["Crunch Bench"],
         "notes": "Focus on controlled crunch compression."
+      },
+      {
+        "exercise_name": "cable_tricep_pushdown",
+        "sets": 3,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 12.5,
+        "rpe_target": 8,
+        "equipment": ["Cable Machine"],
+        "notes": "Standalone tricep exercise."
       }
     ],
     "WEDNESDAY": [],
@@ -312,16 +312,6 @@
         "rpe_target": 8,
         "equipment": ["Cable Machine"],
         "notes": "Slight progression to next stack pin."
-      },
-      {
-        "exercise_name": "cable_tricep_pushdown",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 13.75,
-        "rpe_target": 8,
-        "equipment": ["Cable Machine"],
-        "notes": "Standalone tricep extension."
       }
     ],
     "TUESDAY": [
@@ -374,6 +364,16 @@
         "rpe_target": 9,
         "equipment": ["Crunch Bench"],
         "notes": "+2 reps volume increase."
+      },
+      {
+        "exercise_name": "cable_tricep_pushdown",
+        "sets": 3,
+        "reps": 12,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 13.75,
+        "rpe_target": 8,
+        "equipment": ["Cable Machine"],
+        "notes": "Standalone tricep extension."
       }
     ],
     "WEDNESDAY": [],
