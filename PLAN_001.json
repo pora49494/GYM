@@ -23,119 +23,67 @@
       {
         "exercise_name": "incline_dumbbell_press",
         "sets": 3,
-        "reps": 10,
+        "reps": 8,
         "duration_minutes": 0,
         "suggested_weight_kg": 16,
         "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
-        "notes": "Weight is per dumbbell. Adjust to leave 2 reps in reserve."
+        "notes": "Weight is per dumbbell. Baseline load increased for 21% body fat lean mass calculation."
       },
       {
         "exercise_name": "lat_pulldown_wide_grip",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 40,
         "rpe_target": 8,
         "equipment": ["Lat Pulldown / Row Combo Machine"],
-        "notes": "Drive elbows straight down to your side pockets."
+        "notes": "Drive elbows straight down toward side pockets."
       },
       {
         "exercise_name": "pectoral_fly_machine",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 33,
-        "rpe_target": 9,
+        "rpe_target": 8,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Weight set to 33kg based on machine increments."
+        "notes": "Machine load scaled up to match actual chest strength baseline."
       },
       {
         "exercise_name": "iso_lateral_dy_row",
         "sets": 3,
-        "reps": 10,
+        "reps": 8,
         "duration_minutes": 0,
         "suggested_weight_kg": 20,
         "rpe_target": 8,
         "equipment": ["Iso-Lateral DY Row Plate Loading"],
-        "notes": "Weight listed is the added plate load per side."
+        "notes": "Weight listed is added plate load per side."
       },
       {
         "exercise_name": "lateral_raise_machine",
         "sets": 4,
-        "reps": 15,
+        "reps": 12,
         "duration_minutes": 0,
         "suggested_weight_kg": 15,
-        "rpe_target": 9,
+        "rpe_target": 8,
         "equipment": ["Lateral Raise Machine"],
-        "notes": "Control the lowering (negative) phase strictly."
+        "notes": "Strict form; zero body swinging."
       },
       {
         "exercise_name": "cable_bicep_curl",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 8.75,
         "rpe_target": 8,
         "equipment": ["Cable Machine"],
-        "notes": "Separated exercise. Rest 60-90 seconds between sets."
-      }
-    ],
-    "TUESDAY": [
-      {
-        "exercise_name": "linear_leg_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 80,
-        "rpe_target": 8,
-        "equipment": ["Linear Leg Press"],
-        "notes": "Excludes sled base weight. Achieve a deep depth without rounding lower back."
-      },
-      {
-        "exercise_name": "pure_deadlift_machine",
-        "sets": 3,
-        "reps": 8,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 8,
-        "equipment": ["Pure Deadlift Machine"],
-        "notes": "Total plate load added. Forcefully drive up through your heels."
-      },
-      {
-        "exercise_name": "leg_extension",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 17.5,
-        "rpe_target": 8,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Weight dropped ~20% to accommodate feedback and target 12 clean reps."
-      },
-      {
-        "exercise_name": "seated_leg_curl",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 27.5,
-        "rpe_target": 8,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Weight dropped ~20% to keep reps crisp without straining."
-      },
-      {
-        "exercise_name": "crunch_bench",
-        "sets": 3,
-        "reps": 20,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 0,
-        "rpe_target": 9,
-        "equipment": ["Crunch Bench"],
-        "notes": "Focus on controlled crunch compression."
+        "notes": "Standalone exercise. Rest 60-90 seconds between sets."
       },
       {
         "exercise_name": "cable_tricep_pushdown",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 12.5,
         "rpe_target": 8,
@@ -143,14 +91,66 @@
         "notes": "Standalone tricep exercise."
       }
     ],
+    "TUESDAY": [
+      {
+        "exercise_name": "linear_leg_press",
+        "sets": 3,
+        "reps": 8,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 80,
+        "rpe_target": 8,
+        "equipment": ["Linear Leg Press"],
+        "notes": "Excludes sled base weight. Full deep depth."
+      },
+      {
+        "exercise_name": "pure_deadlift_machine",
+        "sets": 3,
+        "reps": 8,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 40,
+        "rpe_target": 8,
+        "equipment": ["Pure Deadlift Machine"],
+        "notes": "Total plate load added. Drive up through heels."
+      },
+      {
+        "exercise_name": "leg_extension",
+        "sets": 3,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 17.5,
+        "rpe_target": 8,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Controlled extension and pause at peak."
+      },
+      {
+        "exercise_name": "seated_leg_curl",
+        "sets": 3,
+        "reps": 10,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 27.5,
+        "rpe_target": 8,
+        "equipment": ["Leg Curl / Extension Combo Machine"],
+        "notes": "Smooth hamstring contraction."
+      },
+      {
+        "exercise_name": "crunch_bench",
+        "sets": 3,
+        "reps": 15,
+        "duration_minutes": 0,
+        "suggested_weight_kg": 0,
+        "rpe_target": 8,
+        "equipment": ["Crunch Bench"],
+        "notes": "Controlled abdominal contractions."
+      }
+    ],
     "WEDNESDAY": [],
     "THURSDAY": [
       {
         "exercise_name": "flat_dumbbell_press",
         "sets": 3,
-        "reps": 10,
+        "reps": 8,
         "duration_minutes": 0,
-        "suggested_weight_kg": 18,
+        "suggested_weight_kg": 16,
         "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
         "notes": "Weight is per dumbbell."
@@ -158,327 +158,94 @@
       {
         "exercise_name": "seated_cable_row_low_row",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 35,
         "rpe_target": 8,
         "equipment": ["Lat Pulldown / Row Combo Machine"],
-        "notes": "Pull into your lower waist area and actively squeeze your scapula."
+        "notes": "Pull to lower waist area and actively squeeze scapula."
       },
       {
         "exercise_name": "smith_machine_overhead_shoulder_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 20,
-        "rpe_target": 8,
-        "equipment": ["Smith Machine", "Adjustable Bench"],
-        "notes": "Added plate weight total, excluding bar track mechanism."
-      },
-      {
-        "exercise_name": "rear_deltoid_fly",
-        "sets": 3,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 25,
-        "rpe_target": 9,
-        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Reverse chest position directly facing the machine pad."
-      },
-      {
-        "exercise_name": "dumbbell_bicep_curl",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 10,
-        "rpe_target": 9,
-        "equipment": ["Dumbbells 1kg-50kg", "Arm Curl Bench"],
-        "notes": "Weight is per dumbbell. Strictly keep elbows tucked against the pad."
-      }
-    ],
-    "FRIDAY": [
-      {
-        "exercise_name": "plate_loaded_v_squat_machine",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 8,
-        "equipment": ["V-Squat Machine Plate Loading"],
-        "notes": "Total plate load loaded on the machine pins."
-      },
-      {
-        "exercise_name": "dumbbell_romanian_deadlifts",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 20,
-        "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg"],
-        "notes": "Weight is per dumbbell. Push hips backward until you get a deep hamstring stretch."
-      },
-      {
-        "exercise_name": "leg_extension",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 17.5,
-        "rpe_target": 8,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Superset removed. Performed as a standalone exercise at lighter weight."
-      },
-      {
-        "exercise_name": "seated_leg_curl",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 27.5,
-        "rpe_target": 8,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Performed separately after leg extensions at adjusted comfortable load."
-      },
-      {
-        "exercise_name": "back_extension_bench",
-        "sets": 3,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 0,
-        "rpe_target": 8,
-        "equipment": ["Back Extension Bench"],
-        "notes": "Squeeze your glutes and lower hamstrings firmly at the top."
-      }
-    ],
-    "SATURDAY": [],
-    "SUNDAY": []
-  },
-  "week_2_plan": {
-    "MONDAY": [
-      {
-        "exercise_name": "incline_dumbbell_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 18,
-        "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
-        "notes": "Progressive overload applied (+2kg per dumbbell)."
-      },
-      {
-        "exercise_name": "lat_pulldown_wide_grip",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 45,
-        "rpe_target": 8,
-        "equipment": ["Lat Pulldown / Row Combo Machine"],
-        "notes": "Focus on complete lat extension at the top."
-      },
-      {
-        "exercise_name": "pectoral_fly_machine",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 33,
-        "rpe_target": 9,
-        "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Maintain 33kg while focusing on controlled form."
-      },
-      {
-        "exercise_name": "iso_lateral_dy_row",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 22.5,
-        "rpe_target": 8,
-        "equipment": ["Iso-Lateral DY Row Plate Loading"],
-        "notes": "Add a small fractional plate (2.5kg per side)."
-      },
-      {
-        "exercise_name": "lateral_raise_machine",
-        "sets": 4,
-        "reps": 15,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 15,
-        "rpe_target": 9,
-        "equipment": ["Lateral Raise Machine"],
-        "notes": "Weight kept baseline for controlled adaptation."
-      },
-      {
-        "exercise_name": "cable_bicep_curl",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 10,
-        "rpe_target": 8,
-        "equipment": ["Cable Machine"],
-        "notes": "Slight progression to next stack pin."
-      }
-    ],
-    "TUESDAY": [
-      {
-        "exercise_name": "linear_leg_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 90,
-        "rpe_target": 8,
-        "equipment": ["Linear Leg Press"],
-        "notes": "Added +10kg total plate load."
-      },
-      {
-        "exercise_name": "pure_deadlift_machine",
         "sets": 3,
         "reps": 8,
         "duration_minutes": 0,
-        "suggested_weight_kg": 45,
-        "rpe_target": 8,
-        "equipment": ["Pure Deadlift Machine"],
-        "notes": "Upward weight scaling."
-      },
-      {
-        "exercise_name": "leg_extension",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 17.5,
-        "rpe_target": 8,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Consolidating form at 17.5kg before advancing load."
-      },
-      {
-        "exercise_name": "seated_leg_curl",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 27.5,
-        "rpe_target": 8,
-        "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Consolidating form at 27.5kg before advancing load."
-      },
-      {
-        "exercise_name": "crunch_bench",
-        "sets": 3,
-        "reps": 22,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 0,
-        "rpe_target": 9,
-        "equipment": ["Crunch Bench"],
-        "notes": "+2 reps volume increase."
-      },
-      {
-        "exercise_name": "cable_tricep_pushdown",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 13.75,
-        "rpe_target": 8,
-        "equipment": ["Cable Machine"],
-        "notes": "Standalone tricep extension."
-      }
-    ],
-    "WEDNESDAY": [],
-    "THURSDAY": [
-      {
-        "exercise_name": "flat_dumbbell_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
         "suggested_weight_kg": 20,
         "rpe_target": 8,
-        "equipment": ["Dumbbells 1kg-50kg", "Adjustable Bench"],
-        "notes": "Step up weight (+2kg per dumbbell)."
-      },
-      {
-        "exercise_name": "seated_cable_row_low_row",
-        "sets": 3,
-        "reps": 12,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 40,
-        "rpe_target": 8,
-        "equipment": ["Lat Pulldown / Row Combo Machine"],
-        "notes": "Maintain upright spine."
-      },
-      {
-        "exercise_name": "smith_machine_overhead_shoulder_press",
-        "sets": 3,
-        "reps": 10,
-        "duration_minutes": 0,
-        "suggested_weight_kg": 22.5,
-        "rpe_target": 8,
         "equipment": ["Smith Machine", "Adjustable Bench"],
-        "notes": "Added plate weight total increased (+2.5kg)."
+        "notes": "Added plate weight total."
       },
       {
         "exercise_name": "rear_deltoid_fly",
         "sets": 3,
-        "reps": 15,
+        "reps": 12,
         "duration_minutes": 0,
-        "suggested_weight_kg": 30,
-        "rpe_target": 9,
+        "suggested_weight_kg": 25,
+        "rpe_target": 8,
         "equipment": ["Pectoral Fly / Rear Deltoid Machine"],
-        "notes": "Target rear shoulder pocket."
+        "notes": "Reverse chest position directly facing machine pad."
       },
       {
         "exercise_name": "dumbbell_bicep_curl",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
-        "suggested_weight_kg": 11,
-        "rpe_target": 9,
+        "suggested_weight_kg": 10,
+        "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg", "Arm Curl Bench"],
-        "notes": "Weight per dumbbell stepped up."
+        "notes": "Weight is per dumbbell."
       }
     ],
     "FRIDAY": [
       {
         "exercise_name": "plate_loaded_v_squat_machine",
         "sets": 3,
-        "reps": 10,
+        "reps": 8,
         "duration_minutes": 0,
-        "suggested_weight_kg": 45,
+        "suggested_weight_kg": 40,
         "rpe_target": 8,
         "equipment": ["V-Squat Machine Plate Loading"],
-        "notes": "Total plate load increased (+5kg total)."
+        "notes": "Total plate load loaded on machine pins."
       },
       {
         "exercise_name": "dumbbell_romanian_deadlifts",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
-        "suggested_weight_kg": 22,
+        "suggested_weight_kg": 20,
         "rpe_target": 8,
         "equipment": ["Dumbbells 1kg-50kg"],
-        "notes": "Prioritize eccentric stretch tension."
+        "notes": "Weight is per dumbbell. Focus on hamstring stretch."
       },
       {
         "exercise_name": "leg_extension",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 17.5,
         "rpe_target": 8,
         "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Focus on smooth control throughout movement."
+        "notes": "Controlled execution."
       },
       {
         "exercise_name": "seated_leg_curl",
         "sets": 3,
-        "reps": 12,
+        "reps": 10,
         "duration_minutes": 0,
         "suggested_weight_kg": 27.5,
         "rpe_target": 8,
         "equipment": ["Leg Curl / Extension Combo Machine"],
-        "notes": "Focus on full range without hip lifting."
+        "notes": "Controlled execution."
       },
       {
         "exercise_name": "back_extension_bench",
         "sets": 3,
-        "reps": 15,
+        "reps": 12,
         "duration_minutes": 0,
         "suggested_weight_kg": 0,
         "rpe_target": 8,
         "equipment": ["Back Extension Bench"],
-        "notes": "Squeeze glutes at peak contraction."
+        "notes": "Squeeze glutes and hamstrings at top."
       }
     ],
     "SATURDAY": [],
